@@ -1661,7 +1661,7 @@
 			 */
 			
 			_isElement: function(el){
-				if(window.HTMLElement){
+				if(window.phpElement){
 					return el instanceof HTMLElement;
 				} else {
 					return (

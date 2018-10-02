@@ -719,7 +719,6 @@ img{
 .about-content {
 	display: inline;
 	float: left;
-	margin-top: 50px;
 	width: 100%;
 }
 
@@ -1369,8 +1368,7 @@ img{
 
 .blog-news-img {
   display: inline;
-  float: left;
-  height: 270px;
+  /*float: left;*/
   width: 100%;
 }
 
@@ -1562,6 +1560,18 @@ img{
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
+}
+
+#footer .service-title{
+	color: #2bcdc1;
+	font-size: 20px;
+	font-weight: 300;
+	text-transform: uppercase;
+	transition: all 0.5s ease 0s;
+}
+
+#footer .single-service p, #footer .single-service:hover .service-icon, #footer .single-service:hover .service-title{
+  color:#FFF;
 }
 
 
