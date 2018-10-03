@@ -137,7 +137,7 @@
             <li class="active"><a href="index.php">Home</a></li>
             <li><a href="events.php">Events</a></li>
             <li><a href="news.php">News</a></li>
-            <li><a href="portfolio.php">Photos</a></li>
+            <li><a href="gallery.php">Photos</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documents & Info<span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">

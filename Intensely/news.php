@@ -62,226 +62,201 @@
           <div class="latest-news-content">
             <div class="row">
               <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/October-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">October 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/October-2018.pdf">October 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/September-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">September 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/September-2018.pdf">September 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/August%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">August 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/August%202018.pdf">August 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/July%202018-a.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">July 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/July%202018-a.pdf">July 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/June%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">June 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/June%202018.pdf">June 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/May%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">May 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/May%202018.pdf">May 2018</a></h4>
+                  </div>
+                </article>
+              </div>
+			</div>
+			<p></p>
+			<div class="row">  
+			  <!-- start single latest news -->
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
+                <article class="blog-news-single">
+                  <div class="blog-news-img">
+                    <a target="_blank" href="assets/newsletter/04%20April%202018-a.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                  </div>
+                  <div class="blog-news-title">
+                    <h4><a target="_blank" href="assets/newsletter/04%20April%202018-a.pdf">April 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/March%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">April 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/March%202018.pdf">March 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/February%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">March 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/February%202018.pdf">February 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/January%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">February 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/January%202018.pdf">January 2018</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/December%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">January 2018</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/December%202017.pdf">December 2017</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/November%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">December 2017</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/November%202017.pdf">November 2017</a></h4>
+                  </div>
+                </article>
+              </div>
+			</div>
+			<p></p>
+			<div class="row">  
+			  <!-- start single latest news -->
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
+                <article class="blog-news-single">
+                  <div class="blog-news-img">
+                    <a target="_blank" href="assets/newsletter/October%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                  </div>
+                  <div class="blog-news-title">
+                    <h4><a target="_blank" href="assets/newsletter/October%202017.pdf">October 2017</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/September%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">November 2017</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/September%202017.pdf">September 2017</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/August%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">October 2017</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/August%202017.pdf">August 2017</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/newsletter/July%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">September 2017</a></h4>
+                    <h4><a target="_blank" href="assets/newsletter/July%202017.pdf">July 2017</a></h4>
                   </div>
                 </article>
               </div>
-			  
-			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
-                <article class="blog-news-single">
-                  <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
-                  </div>
-                  <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">August 2017</a></h4>
-                  </div>
-                </article>
-              </div>
-			  
-			  <!-- start single latest news -->
-              <div class="col-md-2 text-center">
-                <article class="blog-news-single">
-                  <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><i class="fa fa-5x fa-file-pdf-o"></i></a>
-                  </div>
-                  <div class="blog-news-title">
-                    <h4><a href="blog-single-with-right-sidebar.html">July 2017</a></h4>
-                  </div>
-                </article>
-              </div>
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-            </div>
+			</div>  
           </div>
         </div>
       </div>
