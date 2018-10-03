@@ -1,0 +1,57 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="David Epstein">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-AOLNSCP  (WinNT; U) [Netscape]">
+   <title>newreq-cgi</title>
+<script LANGUAGE=JAVASCRIPT>
+<!--
+function openThePage(url)
+{
+   window.open(url);
+}
+//-->
+</script>
+</head>
+<body bgcolor=lightgreen>
+<h2><b>Service Request Form</b></a></h2>
+<font size=3> dummy CGI form.
+<form method = post name = "Service Request Form">
+<table align="center" width="95%">
+<tr align=left>
+<td><b>Service Description</b></td> 
+<td><input type=text name="servdesc" value="description of service, such as changing light bulbs." size=60></td>
+</tr>
+<tr align=left>
+<td><b>Department</b></td>
+<td><SELECT NAME="dept">
+<OPTION VALUE="maint">Maintenance</OPTION>
+<OPTION VALUE="night">Night Staff</OPTION>
+<OPTION VALUE="office">Office</OPTION>
+<OPTION VALUE="gard">Gardening</OPTION>
+<OPTION VALUE="offsite">Off-site Property Management</OPTION>
+<SELECT></td>
+</tr>
+<tr align=left>
+<td><b>Completion Date</b></td>
+<td><input type=text name="ecd" value="never!" size=60></td>
+</tr>
+<tr align=left>
+<td><b>Status</b></td>
+<td><SELECT NAME="status">
+<OPTION VALUE="uninit">Uninitiated</OPTION>
+<OPTION VALUE="pend">Pending, Need Info</OPTION>
+<OPTION VALUE="inprog">In Progress</OPTION>
+<OPTION VALUE="done">Done</OPTION>
+<OPTION VALUE="noway">It'll Never Happen!</OPTION>
+<SELECT></td>
+</tr>
+<tr align=right>
+<td><input type=button value="Done" onclick=openThePage("didit.html");></td>
+</tr>
+</table>
+<table cols=7>
+</form>
+</body>
+</html>

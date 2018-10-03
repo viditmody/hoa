@@ -141,9 +141,9 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documents & Info<span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="blog-archive.php">Governing Documents</a></li>                
-                <li><a href="blog-single-with-left-sidebar.php">Community Info</a></li>
-                <li><a href="blog-single-with-right-sidebar.php">Forms, Fees & Insurance</a></li>
+                <li><a href="governing-documents.php">Governing Documents</a></li>                
+                <li><a href="community-info.php">Community Info</a></li>
+                <li><a href="form-fee-insurance.php">Forms, Fees & Insurance</a></li>
 				<li><a href="blog-single-with-right-sidebar.php">City Agencies & Orgs</a></li>        
 				<li><a href="blog-single-with-right-sidebar.php">Davis Stirling Act</a></li>        
               </ul>
