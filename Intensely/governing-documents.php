@@ -64,7 +64,7 @@
             <div class="row">
               <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/ccnr-searchable.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -76,7 +76,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/by-laws.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -88,7 +88,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/by-laws-searchable.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -100,7 +100,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/articles-of-Incorporation.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -112,7 +112,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.85s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/rules-and-regulations-amended_6-14-16.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -124,7 +124,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.0s" >
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/governing_docs/enforcement-fine-policy.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -140,26 +140,6 @@
     </div>
   </section>
   <!-- End latest news -->
-
-  <!-- Start subscribe us -->
-  <section id="subscribe">
-    <div class="subscribe-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="subscribe-area">
-              <h2 class="wow fadeInUp">Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <input type="text" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Submit</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End subscribe us -->
 
   <!-- Start footer -->
   <?php include("inc_files/footer.php"); ?>

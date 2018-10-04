@@ -63,7 +63,7 @@
             <div class="row">
               <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/October-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -75,7 +75,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/September-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -87,7 +87,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/August%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -99,7 +99,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/July%202018-a.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -111,7 +111,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.85s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/June%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -123,7 +123,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.00s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/May%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -137,7 +137,7 @@
 			<div class="row">  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/04%20April%202018-a.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -149,7 +149,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/March%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -161,7 +161,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/February%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -173,7 +173,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/January%202018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -185,7 +185,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.85s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/December%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -197,7 +197,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.0s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/November%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -211,7 +211,7 @@
 			<div class="row">  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/October%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -223,7 +223,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/September%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -235,7 +235,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/August%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
@@ -247,7 +247,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/July%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>

@@ -144,11 +144,11 @@
                 <li><a href="governing-documents.php">Governing Documents</a></li>                
                 <li><a href="community-info.php">Community Info</a></li>
                 <li><a href="form-fee-insurance.php">Forms, Fees & Insurance</a></li>
-				<li><a href="blog-single-with-right-sidebar.php">City Agencies & Orgs</a></li>        
-				<li><a href="blog-single-with-right-sidebar.php">Davis Stirling Act</a></li>        
+				<li><a href="city-agency-organizations.php">City Agencies & Orgs</a></li>        
+				<li><a href="davis-sterling-act.php">Davis Stirling Act</a></li>        
               </ul>
             </li>               
-			<li><a href="contact.php">Home Services</a></li>
+			<li><a href="home-services.php">Home Services</a></li>
 			<li><a href="contact.php">Contact Us</a></li>
           </ul>                     
         </div><!--/.nav-collapse -->

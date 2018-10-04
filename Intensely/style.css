@@ -1036,7 +1036,7 @@ img{
   color: #fff;
   display: inline;
   float: left;
-  font-size: 40px;
+  font-size: 14px;
   font-weight: normal;
   padding: 15px;
   width: 100%;
@@ -2345,6 +2345,11 @@ img{
   }  
 }
 
+@media(min-width:991px ){
+	.single-table-price {
+    	margin-bottom: 40px;
+	}
+}
 
 @media(max-width:991px ){
 	#menu-area #navbar {

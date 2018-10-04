@@ -61,49 +61,49 @@
           <div class="latest-news-content">
             <div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/ac-installation-standards.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Air Conditioner Installation Standards</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/ac-installation-standards.pdf">Air Conditioner Installation Standards</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Automatic_Payment-Authorization.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Automatic Payment Authorization</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Automatic_Payment-Authorization.pdf">Automatic Payment Authorization</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/CCnRs-violation_Form-new.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">CC&R Violation Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/CCnRs-violation_Form-new.pdf">CC&R Violation Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Clubhouse-Usage-Agreement-2013.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Clubhouse Usage Agreement</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Clubhouse-Usage-Agreement-2013.pdf">Clubhouse Usage Agreement</a></h4>
                   </div>
                 </article>
               </div>
@@ -112,49 +112,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/community-antenna-satellite.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Community Antenna & Satellite Q&A (Aug 2001)</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/community-antenna-satellite.pdf">Community Antenna & Satellite Q&A (Aug 2001)</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="https://www.eoidirect.com/"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Condominium Certificates of Insurance Order online or call 877-456-3643 for same day service!</a></h4>
+                    <h4><a target="_blank" href="https://www.eoidirect.com/">Condominium Certificates of Insurance</a> Order online or call 877-456-3643 for same day service!</h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Contested-Assessment-Form.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Contested Assessment Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Contested-Assessment-Form.pdf">Contested Assessment Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Driveway Gate Transmitter/Card Purchase Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf">Driveway Gate Transmitter/Card Purchase Form</a></h4>
                   </div>
                 </article>
               </div>
@@ -163,49 +163,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Emergency-Contact-Form-Updated_5-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Emergency Contact Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Emergency-Contact-Form-Updated_5-2018.pdf">Emergency Contact Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Enforcement -Fine-Policy.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Enforcement of Governing Documents and Monetary Penalties</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Enforcement -Fine-Policy.pdf">Enforcement of Governing Documents and Monetary Penalties</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/escrow.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Escrow Fees Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/escrow.pdf">Escrow Fees Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/2018-Fees-Schedule.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Fees Schedule – 2018</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/2018-Fees-Schedule.pdf">Fees Schedule – 2018</a></h4>
                   </div>
                 </article>
               </div>
@@ -214,49 +214,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Gates and Door's Key Deposit Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf">Gates and Door's Key Deposit Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/general-info.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">General Info</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/general-info.pdf">General Info</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Murieta-HOA-Guest-Parking-Permit-Application.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Guest Parking Placard Application</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Murieta-HOA-Guest-Parking-Permit-Application.pdf">Guest Parking Placard Application</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Annual_Checklist_updated_4-10-18.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Homeowners’Annual Checklist</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Annual_Checklist_updated_4-10-18.pdf">Homeowners’Annual Checklist</a></h4>
                   </div>
                 </article>
               </div>
@@ -265,49 +265,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/2018-2019-Liability-Cerfiticate.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Insurance: Certificate of Liability Insurance  9/24/18 – 9/24/19</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/2018-2019-Liability-Cerfiticate.pdf">Insurance: Certificate of Liability Insurance  9/24/18 – 9/24/19</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/2018-2019-Property-Certificate.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Insurance: Certificate of Property Insurance 9/24/18 – 9/24/19</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/2018-2019-Property-Certificate.pdf">Insurance: Certificate of Property Insurance 9/24/18 – 9/24/19</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/2018-2019-Disclosure.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Insurance: Disclosures 2018-2019</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/2018-2019-Disclosure.pdf">Insurance: Disclosures 2018-2019</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Intercom-Directory-Form.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Intercom Directory Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Intercom-Directory-Form.pdf">Intercom Directory Form</a></h4>
                   </div>
                 </article>
               </div>
@@ -316,49 +316,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/EarthquakeBrochure.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Personal Earthquake Protection e-Brochure</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/EarthquakeBrochure.pdf">Personal Earthquake Protection e-Brochure</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/EarthquakeReport.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Murieta Earthquake Risk Report</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/EarthquakeReport.pdf">Murieta Earthquake Risk Report</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Mirtone-Alarm-Instructions.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Intrusive Alarm Instructions</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Mirtone-Alarm-Instructions.pdf">Intrusive Alarm Instructions</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Workout-Manual.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Multi Purpose Weight Machine Manual</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Workout-Manual.pdf">Multi Purpose Weight Machine Manual</a></h4>
                   </div>
                 </article>
               </div>
@@ -367,49 +367,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Neighbor-Resolution-Suggestions.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Neighbor Resolution Suggestions</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Neighbor-Resolution-Suggestions.pdf">Neighbor Resolution Suggestions</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Parking-Sticker-Form-2014-revised.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Parking Sticker Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Parking-Sticker-Form-2014-revised.pdf">Parking Sticker Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Rider-to-Lease-as-of-2-11-14.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Rider to Lease Agreement</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Rider-to-Lease-as-of-2-11-14.pdf">Rider to Lease Agreement</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Unit-Front-Door-Handle-Guidelines.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Unit Front Door Handle- Guidelines</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Unit-Front-Door-Handle-Guidelines.pdf">Unit Front Door Handle- Guidelines</a></h4>
                   </div>
                 </article>
               </div>
@@ -418,49 +418,49 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Contested-Assess.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Violation-Contested Assessment Form</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Contested-Assess.pdf">Violation-Contested Assessment Form</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Murieta-Walk-Through-Form_5-6-04.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Walk-through Report</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Murieta-Walk-Through-Form_5-6-04.pdf">Walk-through Report</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Water-Leak-Emergency-Procedures.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Water Leak Emergency Procedures</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Water-Leak-Emergency-Procedures.pdf">Water Leak Emergency Procedures</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/Water-Shut-Off.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Water Shut-off Instructions</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/Water-Shut-Off.pdf">Water Shut-off Instructions</a></h4>
                   </div>
                 </article>
               </div>
@@ -469,25 +469,25 @@
 			
 			<div class="row">
               <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/DTV-how-to-install-box.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">How to install a converter box</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/DTV-how-to-install-box.pdf">How to install a converter box</a></h4>
                   </div>
                 </article>
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+              <div class="col-md-3 col-sm-3 col-xs-6 text-center">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a target="_blank" href=""><i class="fa fa-2x fa-file-pdf-o"></i></a>
+                    <a target="_blank" href="assets/form-fees-insurance/re-scan-converter-box.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
-                    <h4><a target="_blank" href="">Re-scan after 6/12/09</a></h4>
+                    <h4><a target="_blank" href="assets/form-fees-insurance/re-scan-converter-box.pdf">Re-scan after 6/12/09</a></h4>
                   </div>
                 </article>
               </div>
@@ -499,26 +499,6 @@
     </div>
   </section>
   <!-- End latest news -->
-
-  <!-- Start subscribe us -->
-  <section id="subscribe">
-    <div class="subscribe-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="subscribe-area">
-              <h2 class="wow fadeInUp">Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <input type="text" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Submit</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End subscribe us -->
 
   <!-- Start footer -->
   <?php include("inc_files/footer.php"); ?>
