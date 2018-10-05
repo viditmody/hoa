@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Intensely : Contact</title>
+    <title>Murieta Owners Association : Contact Us</title>
     <?php include("inc_files/css_js.php"); ?>
   </head>
   <body> 
@@ -29,8 +29,7 @@
         <div class="row">
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="single-page-header-left">
-              <h2>Contact</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <h2>Contact Us</h2>
             </div>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
@@ -54,7 +53,6 @@
            <div class="title-area">
               <h2 class="title">Have any Questions?</h2>
               <span class="line"></span>
-              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
             </div>
          </div>
          <div class="col-md-12">
@@ -63,37 +61,35 @@
                <div class="col-md-4">
                  <div class="contact-area-left">
                    <h4>Contact Info</h4>
-                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+                   <p>Murieta Owner's Association</p>
                    <address class="single-address">
-                     <p>P.O. Box 240000. Huntsville, AL 35813, USA Street address: 305</p>
-                     <p>support@gmail.com</p>
-                     <p>+1(06) 778 5468</p>
+                     <p>39821 Cedar Blvd. Newark, CA 94560</p>
+                     <p><a href="mailto:murietahoa@gmail.com">murietahoa@gmail.com</a></p>
+                     <p>Phone: <a href="tel:+15106838794">(510) 683-8794</a></p>
+					 <p>Fax: (510) 683-8940</p>
                    </address> 
                    <div class="footer-right contact-social">
-                      <a href="index.php"><i class="fa fa-facebook"></i></a>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-google-plus"></i></a>
-                      <a href="#"><i class="fa fa-linkedin"></i></a>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
+                      <a target="_blank" href="https://www.facebook.com/Murieta-Owners-Association-116503825092382"><i class="fa fa-facebook"></i></a>
                     </div>                
                  </div>
                </div>
                <div class="col-md-8">
                  <div class="contact-area-right">
-                   <form action="" class="comments-form contact-form">
+                   <form action="" class="comments-form contact-form" id="contact-form">
                     <div class="form-group">                        
-                      <input type="text" class="form-control" placeholder="Your Name">
+                      <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
                     </div>
                     <div class="form-group">                        
-                      <input type="email" class="form-control" placeholder="Email">
+                      <input type="email" class="form-control" id="email" name="email" placeholder="Email">
                     </div>
                      <div class="form-group">                        
-                      <input type="text" class="form-control" placeholder="Subject">
+                      <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
                     </div>
                     <div class="form-group">                        
-                      <textarea placeholder="Comment" rows="3" class="form-control"></textarea>
+                      <textarea placeholder="Comment" rows="3" id="message" name="message" class="form-control"></textarea>
                     </div>
-                    <button class="comment-btn">Submit Comment</button>
+					<div id="form-messages"></div>
+                    <button type="submit" class="comment-btn">Submit Comment</button>
                   </form>
                  </div>
                </div>
@@ -107,7 +103,7 @@
 
   <!-- Start google map -->
   <section id="google-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3714257064535!2d-86.7550931378034!3d34.66757706940219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8862656f8475892d%3A0xf3b1aee5313c9d4d!2sHuntsville%2C+AL+35813%2C+USA!5e0!3m2!1sen!2sbd!4v1445253385137" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.4944024717397!2d-121.99755798468968!3d37.51984127980666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbf552eb4daf9%3A0x1eff7cb51b97c18!2sMurieta+Owners+Association!5e0!3m2!1sen!2sus!4v1538775999673" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   </section>
   <!-- End google map -->
 
@@ -136,6 +132,60 @@
   <!-- End footer -->
 
   <?php include("inc_files/js_footer.php"); ?>
-    
+  
+  <script>
+  	$(function() {
+		// Get the form.
+		var form = $('#contact-form');
+		
+		// Get the messages div.
+	    var formMessages = $('#form-messages');
+		
+		// TODO: The rest of the code will go here...
+		$(form).submit(function(event) {
+			//get the value on submit
+			var formName = $('#name').val();
+			var formEmail = $('#email').val();
+			var formSubject = $('#subject').val();
+			var formMessage = $('#message').val();
+			// Stop the browser from submitting the form.
+			event.preventDefault();
+			var formData = $(form).serialize();
+			console.log(formData);
+			$.ajax({
+				type: 'POST',
+				url: 'inc_files/contact_submit.php',
+				data: formData
+			}).done(function(response) {
+				// Make sure that the formMessages div has the 'success' class.
+				$(formMessages).removeClass('error');
+				$(formMessages).addClass('success');
+			
+				// Set the message text.
+				$(formMessages).html(response);
+			
+				// Clear the form.
+				$('#name').val('');
+				$('#email').val('');
+				$('#subject').val('');
+				$('#message').val('');
+			}).fail(function(data) {
+				// Make sure that the formMessages div has the 'error' class.
+				$(formMessages).removeClass('success');
+				$(formMessages).addClass('error');
+			
+				// Set the message text.
+				if (data.responseText !== '') {
+					$(formMessages).html(data.responseText);
+				} else {
+					$(formMessages).html('Oops! An error occured and your message could not be sent.');
+				}
+			});
+			
+			
+		});
+	});
+  </script>
+  
   </body>
 </html>
