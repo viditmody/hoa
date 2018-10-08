@@ -62,7 +62,7 @@
             <div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/ac-installation-standards.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -74,7 +74,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Automatic_Payment-Authorization.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -86,7 +86,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/CCnRs-violation_Form-new.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -98,7 +98,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Clubhouse-Usage-Agreement-2013.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -113,7 +113,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/community-antenna-satellite.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -125,7 +125,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="https://www.eoidirect.com/"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -137,7 +137,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Contested-Assessment-Form.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -149,7 +149,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -164,7 +164,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Emergency-Contact-Form-Updated_5-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -176,7 +176,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Enforcement -Fine-Policy.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -188,7 +188,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/escrow.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -200,7 +200,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/2018-Fees-Schedule.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -215,7 +215,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/key-deposit-form-2018.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -227,7 +227,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/general-info.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -239,7 +239,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Murieta-HOA-Guest-Parking-Permit-Application.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -251,7 +251,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Annual_Checklist_updated_4-10-18.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -266,7 +266,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/2018-2019-Liability-Cerfiticate.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -278,7 +278,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/2018-2019-Property-Certificate.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -290,7 +290,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/2018-2019-Disclosure.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -302,7 +302,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Intercom-Directory-Form.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -317,7 +317,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/EarthquakeBrochure.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -329,7 +329,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/EarthquakeReport.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -341,7 +341,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Mirtone-Alarm-Instructions.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -353,7 +353,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Workout-Manual.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -368,7 +368,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Neighbor-Resolution-Suggestions.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -380,7 +380,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Parking-Sticker-Form-2014-revised.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -392,7 +392,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Rider-to-Lease-as-of-2-11-14.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -404,7 +404,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Unit-Front-Door-Handle-Guidelines.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -419,7 +419,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Contested-Assess.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -431,7 +431,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Murieta-Walk-Through-Form_5-6-04.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -443,7 +443,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.55s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Water-Leak-Emergency-Procedures.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -455,7 +455,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.70s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/Water-Shut-Off.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -470,7 +470,7 @@
 			<div class="row">
               <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/DTV-how-to-install-box.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>
@@ -482,7 +482,7 @@
 			  
 			  <!-- start single latest news -->
               <div class="col-md-3 col-sm-3 col-xs-6 text-center">
-                <article class="blog-news-single">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.40s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/form-fees-insurance/re-scan-converter-box.pdf"><i class="fa fa-2x fa-file-pdf-o"></i></a>
                   </div>

@@ -272,16 +272,17 @@
           <div class="col-md-12">
             <div class="subscribe-area">
               <h2 class="wow fadeInUp">Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <input type="text" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Submit</button>
+              <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s" id="news-form">
+                <input type="email" name="email" id="email" placeholder="Enter Your E-mail..">
+                <button class="subscribe-btn" type="submit">Subscribe</button>
+				<div id="form-messages"></div>
               </form>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </section>  
   <!-- End subscribe us -->
 
   <!-- Start footer -->
@@ -289,6 +290,51 @@
   <!-- End footer -->
 
   <?php include("inc_files/js_footer.php"); ?>
+  
+  <script>
+  	$(function() {
+		// Get the form.
+		var form = $('#news-form');
+		
+		// Get the messages div.
+	    var formMessages = $('#form-messages');
+		
+		// TODO: The rest of the code will go here...
+		$(form).submit(function(event) {
+			//get the value on submit
+			var formEmail = $('#email').val();
+			// Stop the browser from submitting the form.
+			event.preventDefault();
+			var formData = $(form).serialize();
+			$.ajax({
+				type: 'POST',
+				url: 'inc_files/newsletter_submit.php',
+				data: formData
+			}).done(function(response) {
+				// Make sure that the formMessages div has the 'success' class.
+				$(formMessages).removeClass('error');
+				$(formMessages).addClass('success');
+			
+				// Set the message text.
+				$(formMessages).html(response);
+			
+				// Clear the form.
+				$('#email').val('');
+			}).fail(function(data) {
+				// Make sure that the formMessages div has the 'error' class.
+				$(formMessages).removeClass('success');
+				$(formMessages).addClass('error');
+			
+				// Set the message text.
+				if (data.responseText !== '') {
+					$(formMessages).html(data.responseText);
+				} else {
+					$(formMessages).html('Oops! An error occured and your message could not be sent.');
+				}
+			});			
+		});
+	});
+  </script>
     
   </body>
 </html>

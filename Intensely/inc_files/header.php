@@ -41,7 +41,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-md-6 col-sm-6 col-xs-6">
+          <div class="col-md-6 col-sm-6 col-xs-6 hidden">
             <div class="header-login">
               <a class="login modal-form" data-target="#login-form" data-toggle="modal" href="#">Login / Sign Up</a>
             </div>

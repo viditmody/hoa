@@ -37,9 +37,9 @@
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.00s">Office is located in the North Clubhouse</p>
                 </div>
               </div>
-              <div class="col-md-6 col-sm-6">
+              <div class="col-md-6 col-sm-6 hidden">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/person1.png" alt="business man">
+                  <img src="assets/images/person1.png" alt="">
                 </div>
               </div>
             </div>

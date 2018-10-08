@@ -107,25 +107,6 @@
   </section>
   <!-- End google map -->
 
-  <!-- Start subscribe us -->
-  <section id="subscribe">
-    <div class="subscribe-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="subscribe-area">
-              <h2>Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form">
-                <input type="text" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Submit</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End subscribe us -->
 
   <!-- Start footer -->
   <?php include("inc_files/footer.php"); ?>
@@ -151,7 +132,6 @@
 			// Stop the browser from submitting the form.
 			event.preventDefault();
 			var formData = $(form).serialize();
-			console.log(formData);
 			$.ajax({
 				type: 'POST',
 				url: 'inc_files/contact_submit.php',
