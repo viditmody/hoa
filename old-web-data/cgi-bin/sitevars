@@ -1,0 +1,14 @@
+# sitevars - stored variables and macros that are system-wide available
+# the \ (backslash) character at the end of a line will continue 
+# on to the next line.
+
+# the htmlscript applets page (naturally)
+htmlscriptapplets=<A HREF = "http://www.htmlscript.com/samples/">\
+Go To htmlscript Sample Applets Page</A>
+
+# Format Patterns For Making U.S.A. Money Display Correctly
+usmoneyfmt=3+,0#.PP
+
+# pre-processor controls
+htsoff=<htmlscript tagdetect="off">
+htson=<htmlscript tagdetect="on">

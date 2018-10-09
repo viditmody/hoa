@@ -168,12 +168,12 @@
 			<p><a href="assets/community_info_docs/minutes" title="Board Meetings" target="_blank">Board Meetings</a></p>
 			<p><a href="http://www.ready.gov/build-a-kit" title="Build an Emergency Plan" target="_blank">Build an Emergency Plan</a> and <a href="http://www.ready.gov/make-a-plan" title="Make a Plan" target="_blank">Make a Plan</a></p>
 			
-			<p><a href="davis-sterling-act.php" title="Forms and Useful Info">Davis-Stirling Act</a></p>
-			<p><a href="form-fee-insurance.php" title="Forms and Useful Info">Forms and Useful Info</a></p>
+			<p><a href="davis-sterling-act" title="Forms and Useful Info">Davis-Stirling Act</a></p>
+			<p><a href="form-fee-insurance" title="Forms and Useful Info">Forms and Useful Info</a></p>
 			<p>Dryer Vents (Air Doctor Presentation- April 2012): <a href="assets/community_info_docs/Importance-of-dryer-vent-cleaning.pdf" title="Importance of Cleaning Dryer Vents Regularly" target="_blank">Importance of Cleaning Dryer Vents Regularly</a></p>
 			<p><a href="assets/community_info_docs/Dryer-vent-cleaning-facts.pdf" title="Dryer Vent Cleaning Facts" target="_blank">Dryer Vent Cleaning Facts</a></p>
-			<p><a href="index.php" title="Murieta-Background">Murieta Background</a></p>
-			<p><a href="news.php" title="Newsletters">Newsletters</a></p>
+			<p><a href="index" title="Murieta-Background">Murieta Background</a></p>
+			<p><a href="news" title="Newsletters">Newsletters</a></p>
 			
 			<p>Digital TV transition: <a href="assets/community_info_docs/DTV-how-to-install-box.pdf" title="How to Install the Converter Box" target="_blank">How to Install the Converter Box</a></p>
           </div>

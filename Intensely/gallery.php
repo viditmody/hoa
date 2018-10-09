@@ -59,6 +59,7 @@
            <li class="filter" data-filter=".pool">Pool</li>
            <li class="filter" data-filter=".club-house">Club House</li>
 		   <li class="filter" data-filter=".walkway">Walkway</li>
+		   <li class="filter" data-filter=".timeline">Murieta Timeline</li>
          </ul>
        </div>      
        <!-- Portfolio container -->
@@ -70,18 +71,6 @@
 				 <div class="single-item-content">               
 					<div class="portfolio-title">
 					  <h4>Green Belt</h4>
-					</div>
-				 </div>
-			   </div>
-		   </a>
-         </div>
-		 <div class="single-portfolio mix entrance">
-           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/mur2.jpg">
-			   <div class="single-item">
-				 <img src="assets/images/portfolio/mur2.jpg" alt="Murieta Sign" title="Murieta Sign">
-				 <div class="single-item-content">               
-					<div class="portfolio-title">
-					  <h4>Murieta Sign</h4>
 					</div>
 				 </div>
 			   </div>
@@ -111,6 +100,80 @@
 			   </div>
 		   </a>
          </div>
+		 
+		 <div class="single-portfolio mix timeline">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2011.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2011.jpg" alt="2011 Entrance" title="2011 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2011 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 <div class="single-portfolio mix timeline">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2013.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2013.jpg" alt="2013 Entrance" title="2013 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2013 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 <div class="single-portfolio mix timeline">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2014.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2014.jpg" alt="2014 Entrance" title="2014 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2014 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 <div class="single-portfolio mix timeline">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2015.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2015.jpg" alt="2015 Entrance" title="2015 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2015 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 <div class="single-portfolio mix timeline">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2016.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2016.jpg" alt="2016 Entrance" title="2016 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2016 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 <div class="single-portfolio mix timeline entrance">
+           <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/2018.jpg">
+			   <div class="single-item">
+				 <img src="assets/images/portfolio/2018.jpg" alt="2018 Entrance" title="2018 Entrance">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h4>2018 Entrance</h4>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+         </div>
+		 
 		 <div class="single-portfolio mix green-belt">
            <a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/portfolio/mur5.jpg">
 			   <div class="single-item">

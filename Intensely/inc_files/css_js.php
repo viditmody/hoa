@@ -1,5 +1,6 @@
+<base href="/" />
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+<link rel="shortcut icon" type="image/icon" href="<?php echo $directory_level; ?>assets/images/favicon.ico"/>
 <!-- Font Awesome -->
 <link href="assets/css/font-awesome.css" rel="stylesheet">
 <!-- Bootstrap -->

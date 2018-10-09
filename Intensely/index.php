@@ -39,7 +39,7 @@
               </div>
               <div class="col-md-6 col-sm-6 hidden">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/person1.png" alt="">
+                  
                 </div>
               </div>
             </div>
@@ -62,7 +62,7 @@
         </div>
         <div class="col-md-12">
           <div class="about-content">
-            <div class="row">
+            <div class="row">			
               <div class="col-md-12">
                 <div class="why-choose-us">
                   <div class="panel-group why-choose-group" id="accordion">
@@ -169,7 +169,17 @@
           </div>
         </div>
 		<div class="col-md-12">
-			<img src="assets/images/murieta-map.gif" alt="Murieta-map" title="Murieta Map">
+			<a class="fancybox view-icon" data-fancybox-group="gallery" href="assets/images/murieta-map.jpg">
+			   <div class="single-item">
+				 <img class="wow zoomIn" src="assets/images/murieta-map.jpg" alt="Murieta-map" title="Murieta Map" style="height:auto">
+				 <div class="single-item-content">               
+					<div class="portfolio-title">
+					  <h3>Murieta Map</h3>
+					</div>
+				 </div>
+			   </div>
+		   </a>
+			
 		</div>
       </div>
     </div>
@@ -177,7 +187,7 @@
   <!-- End Service -->
   
   <!-- Start Testimonial section -->
-  <section id="testimonial" style="display:none">
+  <?php /*?><section id="testimonial" style="display:none">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -228,7 +238,7 @@
         <div class="col-md-6"></div>        
       </div>
     </div>
-  </section>
+  </section><?php */?>
   <!-- End Testimonial section -->
 
   

@@ -1,0 +1,36 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^murietahoa.org [NC]
+RewriteRule ^(.*)$ http://www.murietahoa.org/$1 [L,R=301,NC]
+
+# One year for image files
+<filesMatch ".(jpg|jpeg|png|gif|ico)$">
+Header set Cache-Control "max-age=31536000, public"
+</filesMatch>
+
+# One month for js
+<filesMatch ".(js)$">
+Header set Cache-Control "max-age=2628000, public"
+</filesMatch>
+
+# two weeks for css html etc
+<filesMatch ".(css|html|htm|xml|txt)$">
+Header set Cache-Control "max-age=1209600, public"
+</filesMatch>
+
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+	
+    RewriteCond %{HTTPS} off
+    RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+
+    RewriteCond %{HTTP:Authorization} ^(.*)
+    RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+	
+	RewriteCond %{REQUEST_FILENAME}.php -f
+	RewriteRule ^([^\.]+)/$ $1.php [L]
+	RewriteRule ^([^\.]+)$ $1.php [L]
+</IfModule>
