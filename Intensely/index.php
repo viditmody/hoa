@@ -111,58 +111,58 @@
               <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 2</h4>
-                  <p>39997 Cedar Blvd.</p>
+                  <h4 class="service-title">39997 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 3</h4>
-                  <p>39953 Cedar Blvd.</p>
+                  <h4 class="service-title">39953 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 6</h4>
-                  <p>39887 Cedar Blvd.</p>
+                  <h4 class="service-title">39887 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 7</h4>
-                  <p>39843 Cedar Blvd.</p>
+                  <h4 class="service-title">39843 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 1</h4>
-                  <p>39975 Cedar Blvd.</p>
+                  <h4 class="service-title">39975 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 4</h4>
-                  <p>39931 Cedar Blvd.</p>
+                  <h4 class="service-title">39931 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 5</h4>
-                  <p>39865 Cedar Blvd.</p>
+                  <h4 class="service-title">39865 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
 			  <div class="col-md-3 col-sm-4">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-building service-icon"></i>
-                  <h4 class="service-title">Building 8</h4>
-                  <p>39821 Cedar Blvd.</p>
+                  <h4 class="service-title">39821 Cedar Blvd</h4>
+                  <p></p>
                 </div>
               </div>
             </div>

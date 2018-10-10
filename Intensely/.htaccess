@@ -30,7 +30,15 @@ Header set Cache-Control "max-age=1209600, public"
     RewriteCond %{HTTP:Authorization} ^(.*)
     RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
 	
+	RewriteCond %{REQUEST_FILENAME}.html -f
+	RewriteRule ^([^\.]+)/$ $1.html [L]
+	
+	RewriteCond %{REQUEST_FILENAME}.html -f
+	RewriteRule ^([^\.]+)$ $1.html [L]
+	
 	RewriteCond %{REQUEST_FILENAME}.php -f
 	RewriteRule ^([^\.]+)/$ $1.php [L]
+	
+	RewriteCond %{REQUEST_FILENAME}.php -f
 	RewriteRule ^([^\.]+)$ $1.php [L]
 </IfModule>

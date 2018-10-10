@@ -208,7 +208,7 @@
               </div>
 			</div>
 			<p></p>
-			<div class="row">  
+			<?php /*?><div class="row">  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
@@ -256,7 +256,7 @@
                   </div>
                 </article>
               </div>
-			</div>  
+			</div><?php */?>  
           </div>
         </div>
       </div>
