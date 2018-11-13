@@ -56,6 +56,76 @@
           <div class="title-area">
             <h2 class="title">Upcomming Events</h2>
             <span class="line"></span>
+            <p>November 2018</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="feature-content">
+            <div class="row">
+              <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">November 6</h4>
+                  <p>Applied Pest Management scheduled visit, 9:00 a.m</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">November 12</h4>
+                  <p>Women’s Koffee Klatch, N. Clubhouse, 9:00 a.m.</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">November 13</h4>
+                  <p>Homeowner's Meeting, N. Clubhouse, 7:00 p.m.</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">November 20</h4>
+                  <p>Finance Committee Meeting, N. Clubhouse, 6:30 p.m.</p>
+				  <p>Applied Pest Management scheduled visit, 9:00 a.m.</p>
+				  <p></p>
+                </div>
+              </div>
+			</div>
+			
+			<div class="row">			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">November 22 & 23</h4>
+                  <p>Thanksgiving Day: Office Closed </p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>			  
+            </div>
+          </div>
+        </div>
+      </div>
+	  
+	  
+	  
+	  
+	  <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Upcomming Events</h2>
+            <span class="line"></span>
             <p>October 2018</p>
           </div>
         </div>

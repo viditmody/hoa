@@ -65,6 +65,18 @@
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
                   <div class="blog-news-img">
+                    <a target="_blank" href="assets/newsletter/November-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
+                  </div>
+                  <div class="blog-news-title">
+                    <h4><a target="_blank" href="assets/newsletter/November-2018.pdf">November 2018</a></h4>
+                  </div>
+                </article>
+              </div>
+			  
+			  <!-- start single latest news -->
+              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
+                <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+                  <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/October-2018.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
                   </div>
                   <div class="blog-news-title">
@@ -121,6 +133,9 @@
                 </article>
               </div>
 			  
+			</div>
+			<p></p>
+			<div class="row">
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.00s">
@@ -132,9 +147,7 @@
                   </div>
                 </article>
               </div>
-			</div>
-			<p></p>
-			<div class="row">  
+			  
 			  <!-- start single latest news -->
               <div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
@@ -196,7 +209,7 @@
               </div>
 			  
 			  <!-- start single latest news -->
-              <div class="col-md-2 col-sm-4 col-xs-6 text-center">
+              <!--<div class="col-md-2 col-sm-4 col-xs-6 text-center">
                 <article class="blog-news-single wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.0s">
                   <div class="blog-news-img">
                     <a target="_blank" href="assets/newsletter/November%202017.pdf"><i class="fa fa-5x fa-file-pdf-o"></i></a>
@@ -205,7 +218,7 @@
                     <h4><a target="_blank" href="assets/newsletter/November%202017.pdf">November 2017</a></h4>
                   </div>
                 </article>
-              </div>
+              </div>-->
 			</div>
 			<p></p>
 			<?php /*?><div class="row">  

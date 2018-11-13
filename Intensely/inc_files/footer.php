@@ -27,7 +27,7 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-calendar service-icon"></i>
-                  <h4 class="service-title">Monday, Wednesday, Thursday & Friday</h4>
+                  <h4 class="service-title">Monday, Wednesday & Thursday</h4>
                   <p>9:00 AM - 4:30 PM</p>
                 </div>
               </div>
@@ -38,6 +38,15 @@
                   <i class="fa fa-calendar service-icon"></i>
                   <h4 class="service-title">Tuesday</h4>
                   <p>9:00 AM - 6:00 PM</p>
+                </div>
+              </div>
+              <!-- End single service -->
+			  <!-- Start single service -->
+              <div class="col-md-4 col-sm-6">
+                <div class="single-service wow zoomIn">
+                  <i class="fa fa-calendar service-icon"></i>
+                  <h4 class="service-title">Friday</h4>
+                  <p>9:00 AM - 2:00 PM</p>
                 </div>
               </div>
               <!-- End single service -->
