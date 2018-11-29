@@ -56,6 +56,85 @@
           <div class="title-area">
             <h2 class="title">Upcomming Events</h2>
             <span class="line"></span>
+            <p>December 2018</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="feature-content">
+            <div class="row">
+              <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 4</h4>
+                  <p>Applied Pest Management scheduled visit, 9:00 a.m.</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 10</h4>
+                  <p>Women’s Koffee Klatch, N. Clubhouse, 9:00 a.m.</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 11</h4>
+                  <p>Homeowners’ Meeting, N. Clubhouse, 7:00 p.m.</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 18</h4>
+                  <p>Finance Committee Meeting, N. Clubhouse, 6:30 p.m.</p>
+				  <p>Applied Pest Management scheduled visit, 9:00 a.m.</p>
+				  <p></p>
+                </div>
+              </div>
+			</div>
+			
+			<div class="row">			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 24 & 25</h4>
+                  <p>Christmas Eve & Christmas Day: Office Closed</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>
+			  			  
+			  <div class="col-md-3 col-sm-3">
+                <div class="single-feature wow zoomIn">
+                  <i class="fa fa-leaf feature-icon"></i>
+                  <h4 class="feat-title">December 31</h4>
+                  <p>New Years Eve: Office Closed</p>
+				  <p></p>
+				  <p></p>
+                </div>
+              </div>			  
+            </div>
+          </div>
+        </div>
+      </div>
+	  
+	  
+	  
+	  <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Upcomming Events</h2>
+            <span class="line"></span>
             <p>November 2018</p>
           </div>
         </div>
@@ -266,73 +345,6 @@
                   <i class="fa fa-leaf feature-icon"></i>
                   <h4 class="feat-title">September 18</h4>
                   <p>Applied Pest Management scheduled visit, 9:00 AM - 11:00 AM</p>
-				  <p></p>
-				  <p></p>
-                </div>
-              </div>
-			  
-            </div>
-          </div>
-        </div>
-      </div>
-	  
-	  
-	  <div class="row">
-        <div class="col-md-12">
-          <div class="title-area">
-            <span class="line"></span>
-            <p>August 2018</p>
-          </div>
-        </div>
-        <div class="col-md-12">
-          <div class="feature-content">
-            <div class="row">
-              <div class="col-md-3 col-sm-3">
-                <div class="single-feature wow zoomIn">
-                  <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">August 7</h4>
-                  <p>Mandatory Fire Alarm Testing – 39975 Cedar (Building 1)</p>
-				  <p>Applied Pest Management scheduled visit, 9:00 a.m.</p>
-				  <p></p>
-                </div>
-              </div>
-			  
-			  <div class="col-md-3 col-sm-3">
-                <div class="single-feature wow zoomIn">
-                  <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">August 13</h4>
-                  <p>Women’s Koffee Klatch, N. Clubhouse, 9:00 a.m.</p>
-				  <p></p>
-				  <p></p>
-                </div>
-              </div>
-			  
-			  <div class="col-md-3 col-sm-3">
-                <div class="single-feature wow zoomIn">
-                  <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">August 14</h4>
-				  <p>Finance Committee/Budget Meeting, N. Clubhouse, 6:00 p.m.</p>
-				  <p>Homeowner's Meeting, N. Clubhouse, 7:00 p.m.</p>
-                </div>
-              </div>
-			  
-			  <div class="col-md-3 col-sm-3">
-                <div class="single-feature wow zoomIn">
-                  <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">August 21</h4>
-                  <p>Mandatory Fire Alarm Testing – 39931 Cedar (Building 4)</p>
-				  <p>Applied Pest Management scheduled visit, 9:00 a.m.</p>
-				  <p></p>
-                </div>
-              </div>
-			</div>
-			
-			<div class="row">			  
-			  <div class="col-md-3 col-sm-3">
-                <div class="single-feature wow zoomIn">
-                  <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">August 28</h4>
-                  <p>Mandatory Fire Alarm Testing – 39953 Cedar (Building 3)</p>
 				  <p></p>
 				  <p></p>
                 </div>
