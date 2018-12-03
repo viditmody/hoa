@@ -54,7 +54,7 @@
           <div class="title-area">
             <h2 class="title">Murieta Owners’ Association Governing Documents</h2>
             <span class="line"></span>
-            <p>(Both the CC&Rs and Bylaws are available for download here were recorded by the Alameda County Clerk on 4/11/07 after 78% member vote to approve them.)</p>
+            <p>(Both the CC&Rs and Bylaws are available for download here and were recorded by the Alameda County Clerk on 4/11/07 after 78% member vote to approve them.)</p>
 			<p><a target="_blank" href="assets/governing_docs/ccnr.pdf" title="CCnRs">CC&Rs </a> <strong>must used in conjuction with the</strong> <a target="_blank" href="assets/governing_docs/conversion-chart.pdf" title="Conversion Chart">Conversion Chart</a></p>
 			<p><strong>For important <span class="red-font"><u>rental restrictions</u></span> check page 13 of the CC&Rs </strong></p>
           </div>

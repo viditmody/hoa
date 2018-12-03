@@ -32,7 +32,7 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Murieta Owner's Association</h1>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Murieta Owners' Association</h1>
 				  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">39821 Cedar Blvd., Newark, CA 94560</p>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.00s">Office is located in the North Clubhouse</p>
                 </div>

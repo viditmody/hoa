@@ -62,15 +62,15 @@
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;">
                   <div class="price-header">
-                    <span class="price-title">Appliance Repair</span>
+                    <span class="price-title">Mailbox</span>
                     <div class="price">
-                      Euguene's Home Appliance
+                      USPS Newark
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-					  <li><a target="_blank"  href="tel:+15106578452">(510) 657-8452</a></li>
-                      <li>License No. 37599</li>
+					  <li><a target="_blank"  href="tel:+15107970903">(510) 797-0903</a></li>
+                      <li>&nbsp;</li>
                       <li>&nbsp;</li>
                       <li>&nbsp;</li>
                     </ul>
@@ -84,16 +84,16 @@
 			  <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-table-price featured-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;">
                   <div class="price-header">
-                    <span class="price-title">Appliance Repair</span>
+                    <span class="price-title">Mailbox</span>
                     <div class="price">
-                      Tony 2 The Rescue
+                      UPS
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>Antonio Moralez</li>
-                      <li><a target="_blank" href="tel:+15107556895">(510) 755-6895</a></li>
-                      <li><a target="_blank" href="mailto:tony2therescue@yahoo.com">tony2therescue@yahoo.com</a></li>
+                      <li>local UPS Store</li>
+                      <li><a target="_blank" href="tel:+18002758777">(800) 275-8777</a></li>
+                      <li>&nbsp;</li>
                       <li>&nbsp;</li>
                     </ul>
                   </div>
@@ -242,16 +242,16 @@
 			  <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;">
                   <div class="price-header">
-                    <span class="price-title">Heating & Air</span>
+                    <span class="price-title">Pest Control Services</span>
                     <div class="price">
-                      Dell's Heating & Air
+                      Applied Pest Management
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li><a target="_blank" href="http://www.dellsheatingandair.com">www.dellsheatingandair.com</a></li>
-                      <li><a target="_blank" href="tel:+15103045297">(510) 304-5297</a></li>
-                      <li><a target="_blank" href="tel:+12098331610">(209) 833-1610</a></li>
+                      <li><a target="_blank" href="http://appliedpestmgt.com/">www.appliedpestmgt.com</a></li>
+                      <li><a target="_blank" href="tel:+18002441176">(800) 244-1176</a></li>
+                      <li>&nbsp;</li>
                       <li>&nbsp;</li>
                     </ul>
                   </div>
@@ -312,14 +312,14 @@
                   <div class="price-header">
                     <span class="price-title">Locksmith Services</span>
                     <div class="price">
-                      GreenKeys Locksmith
+                      Centerville Locksmith
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li><a target="_blank" href="http://www.greenkeyslocksmith.com">www.greenkeyslocksmith.com</a></li>
-                      <li><a target="_blank" href="tel:+18886805397">(888) 680-KEYS</a></li>
-                      <li><a target="_blank" href="tel:+15108682938">(510) 868-2938</a></li>
+                      <li><a target="_blank" href="http://www.centervillelock.net/">www.centervillelock.net</a></li>
+                      <li><a target="_blank" href="tel:+5107930438">(510) 793-0438</a></li>
+                      <li>&nbsp;</li>
                       <li>&nbsp;</li>
                     </ul>
                   </div>
@@ -424,16 +424,16 @@
 			  <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-table-price featured-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;">
                   <div class="price-header">
-                    <span class="price-title">Repair Services</span>
+                    <span class="price-title">Water Damage Remediation Services</span>
                     <div class="price">
-                      Murray Construction Services, Inc.
+                      Restoration Management
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li><a target="_blank" href="http://www.murrayservice.com">www.murrayservice.com</a></li>
-                      <li><a target="_blank" href="tel:+15105814960">(510) 581-4960</a></li>
-                      <li>License No. 827337</li>
+                      <li><a target="_blank" href="http://www.rmc.com">www.rmc.com</a></li>
+                      <li><a target="_blank" href="tel:+18004005058">(800) 400-5058</a></li>
+                      <li><a target="_blank" href="tel:+15104389823">(510) 438-9823</a></li>
                       <li>&nbsp;</li>
                     </ul>
                   </div>
@@ -446,16 +446,16 @@
 			  <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;">
                   <div class="price-header">
-                    <span class="price-title">Water Damage Remediation Services</span>
+                    <span class="price-title">Repair Services</span>
                     <div class="price">
-                      Restoration Management
+                      RHS Construction
                     </div>
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li><a target="_blank" href="http://www.rmc.com">www.rmc.com</a></li>
-                      <li><a target="_blank" href="tel:+18004005058">(800) 400-5058</a></li>
-                      <li><a target="_blank" href="tel:+15104389823">(510) 438-9823</a></li>
+                      <li><a target="_blank" href="https://www.rhs-construction.com/">www.rhs-construction.com</a></li>
+                      <li><a target="_blank" href="tel:+16504440309">(650) 444-0309</a></li>
+                      <li>&nbsp;</li>
                       <li>&nbsp;</li>
                     </ul>
                   </div>

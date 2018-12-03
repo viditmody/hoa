@@ -287,12 +287,45 @@
         <div class="row">
           <div class="col-md-12">
             <div class="subscribe-area">
-              <h2 class="wow fadeInUp">Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s" id="news-form">
-                <input type="email" name="email" id="email" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Subscribe</button>
-				<div id="form-messages"></div>
+              <h2 class="wow fadeInUp">Subscribe to the Newsletter &amp; E-Statements</h2>	  
+			  
+			  
+			  <form action="" class="subscrib-form wow fadeInUp form-horizontal" data-wow-duration="0.5s" data-wow-delay="0.5s" id="news-form">
+			  	<div class="form-group">
+					<div class="col-md-4">
+						<label for="owner_name">Name:</label>
+						<input type="text" name="owner_name" id="owner_name" class="form-control" placeholder="Enter Your Name.." required>
+					</div>
+			  		<div class="col-md-4">
+						<label for="mrn">MR# (Parking space#):</label>
+						<input type="number" name="mrn" id="mrn" class="form-control" min="1" max="999" placeholder="Enter Your MR#" required>
+			  		</div>
+					<div class="col-md-4">
+						<label for="email">Resident type</label>
+						<select name="resident_type" id="resident_type" class="form-control" required>
+							<option value="">Please select</option>
+							<option value="Owner">Owner</option>
+							<option value="Tenant">Tenant</option>
+						</select>
+					</div>
+			  	</div>
+				
+				<div class="form-group">
+					<div class="col-md-12">
+						<label for="email">Email address:</label>
+						<input type="email" name="email" id="email" class="form-control" placeholder="Enter Your E-mail.." required>
+					</div>
+			  	</div>
+                
+				<div class="form-group">
+	                <button class="subscribe-btn" type="submit">Subscribe</button>
+				</div>
+				<div class="form-group">
+					<div id="form-messages"></div>
+				</div>
               </form>
+			  
+			  
             </div>
           </div>
         </div>
@@ -317,8 +350,12 @@
 		
 		// TODO: The rest of the code will go here...
 		$(form).submit(function(event) {
+			$(formMessages).html("Please wait while we process your request.");
 			//get the value on submit
 			var formEmail = $('#email').val();
+			var ownerName = $('#owner_name').val();
+			var mrn = $('#mrn').val();
+			var residentType = $('#resident_type').val();
 			// Stop the browser from submitting the form.
 			event.preventDefault();
 			var formData = $(form).serialize();
@@ -336,6 +373,9 @@
 			
 				// Clear the form.
 				$('#email').val('');
+				$('#owner_name').val('');
+				$('#mrn').val('');
+				$('#resident_type').val('');
 			}).fail(function(data) {
 				// Make sure that the formMessages div has the 'error' class.
 				$(formMessages).removeClass('success');
